@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="título">142dp</dimen>
+    <dimen name="button">30dp</dimen>
+</resources>
